@@ -14,6 +14,8 @@ C# mNotepad Released!
 
 > Used NuGet Packs -> NuGet packages were not used in this project.
 
+> Languages : Turkish, English
+
 # Project Description
 
 In this project, you can experience your classic notebook experience. Written in the C # programming language, this program offers you many features. Apart from that, many features not added in these versions can be added according to your wishes. For this, it will be enough to send an e-mail to github@maces.ga.
@@ -31,3 +33,7 @@ If you want to recode or edit the project, just follow these steps;
 6. You are free now! Everything depends on your imagination. 
 
 # Screenshots From Within the Project
+
+![ss](https://user-images.githubusercontent.com/70213359/116134298-67d39b80-a6d8-11eb-8fd0-6c0dd829e511.png)
+
+![image](https://user-images.githubusercontent.com/70213359/116134369-7c179880-a6d8-11eb-96e8-6687ad150ac7.png)
