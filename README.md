@@ -1,2 +1,2 @@
-# mnotepad
+# mNotepad
 C# mNotepad Released!
