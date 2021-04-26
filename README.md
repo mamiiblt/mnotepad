@@ -37,3 +37,7 @@ If you want to recode or edit the project, just follow these steps;
 ![ss](https://user-images.githubusercontent.com/70213359/116134298-67d39b80-a6d8-11eb-8fd0-6c0dd829e511.png)
 
 ![image](https://user-images.githubusercontent.com/70213359/116134369-7c179880-a6d8-11eb-96e8-6687ad150ac7.png)
+
+# License
+
+https://mqsftp.gq/license/
