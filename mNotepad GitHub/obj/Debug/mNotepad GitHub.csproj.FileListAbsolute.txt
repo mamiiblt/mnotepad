@@ -1,0 +1,11 @@
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\bin\Debug\mNotepad GitHub.exe.config
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\bin\Debug\mNotepad GitHub.exe
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\bin\Debug\mNotepad GitHub.pdb
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad GitHub.csprojAssemblyReference.cache
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad_GitHub.mainForm.resources
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad_GitHub.Properties.Resources.resources
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad GitHub.csproj.GenerateResource.cache
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad GitHub.csproj.CoreCompileInputs.cache
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad GitHub.exe
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad GitHub.pdb
+C:\Users\maces\source\repos\mNotepad GitHub\mNotepad GitHub\obj\Debug\mNotepad_GitHub.languageSettings.resources
